@@ -1,0 +1,36 @@
+# Python virtual environments & bytecode
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Executable binaries & temporary tunnels
+cloudflared.exe
+*.exe
+
+# Android & Gradle caches and build artifacts
+.gradle/
+android/.gradle/
+android/build/
+android/*/build/
+android/.idea/
+android/*.iml
+android/*/*.iml
+android/local.properties
+android/.cxx/
+android/captures/
+.idea/
+*.iml
+local.properties
+
+# Temporary QR files
+ascii_qr.txt
+qr.png
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini

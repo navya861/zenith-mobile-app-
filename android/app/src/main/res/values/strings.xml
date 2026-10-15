@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Zenith \'26</string>
+    <string name="fest_title">ZENITH \'26</string>
+    <string name="fest_subtitle">Annual College Fest</string>
+    <string name="fest_dates_venue">Nov 14 – 15, 2026 • Campus Central Arena</string>
+    <string name="registrations_live">Registrations Live</string>
+    <string name="search_placeholder">Search events by title (e.g., Code Sprint, Robo Race, Battle)...</string>
+    <string name="loading_events">Fetching live events schedule...</string>
+    <string name="error_failed_connection">Failed to connect to backend service</string>
+    <string name="error_check_fastapi">Please check that FastAPI is running on port 8000.</string>
+    <string name="retry_connection">Retry Connection</string>
+    <string name="no_events_found">No events match your criteria</string>
+    <string name="no_events_hint">Try clearing your search keyword or switching category tabs to see other activities.</string>
+    <string name="reset_filters">Reset Filters</string>
+    <string name="confirm_registration">Confirm Registration</string>
+    <string name="registering">Registering...</string>
+    <string name="registered">Registered!</string>
+    <string name="event_full">Event is Full</string>
+    <string name="sold_out">SOLD OUT (0 seats left)</string>
+    <string name="footer_text">Zenith \'26 • College Fest Management System</string>
+    <string name="footer_subtext">Built with FastAPI, SQLite, and Tailwind CSS</string>
+</resources>
